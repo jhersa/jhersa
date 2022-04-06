@@ -1,7 +1,6 @@
 # Hola, soy [Jorge Hermosillo](https://github.com/jhersa) 🦒
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhersa)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jh3rsa)
 [![Email Badge](https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:suave@suave.dev)
 [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/nuevoespaciod-ymx4807/shared_invite/zt-16nqt71yq-g69RkI2kqMDEDPSThiQ4kQ)
 
