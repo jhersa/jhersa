@@ -1,7 +1,7 @@
 # Hola, soy [Jorge Hermosillo](https://github.com/jhersa) 🦒
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhersa)
-[![Email Badge](https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:suave@suave.dev)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhersa)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suave@suave.dev)
 [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/nuevoespaciod-ymx4807/shared_invite/zt-16nqt71yq-g69RkI2kqMDEDPSThiQ4kQ)
 
 ## Un poco de mí
@@ -10,31 +10,44 @@ Soy graduado en _Ingeniería en Software_ 🎓 de la [Universidad Autónoma de C
 
 ### Lenguajes y Herramientas
 
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"></code>
-<code><img height="42" src="https://helm.sh/img/helm.svg" alt="helm"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernees"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="ansible"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" alt="github-actions"></code>
-<code><img height="42" src="https://gitlab.com/uploads/-/system/project/avatar/250833/runner_logo.png" alt="gitlab-runner"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png" alt="heroku"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png" alt="gcp"></code>
-<code><img height="42" src="https://prometheus.io/assets/prometheus_logo_grey.svg" alt="prometheus"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
-<code><img height="42" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png" alt="grafana"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github"></code>
-<code><img height="42" src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="gitlab"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/3002c1497202fcd179aa4c64194ea859dfd49820/topics/devops/devops.png" alt="devops"></code>
+<p>
+<img alt="amazonaws" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img alt="ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+<img alt="bash" src="https://img.shields.io/badge/BASH-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+<img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express" />
+<img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img alt="githubactions" src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img alt="gitlab" src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+<img alt="go" src="https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img alt="grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img alt="helm" src="https://img.shields.io/badge/Helm-091C84?style=flat-square&logo=helm" />
+<img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-316ce6?style=flat-square&logo=kubernetes&logoColor=white" />
+<img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img alt="manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white" />
+<img alt="mongodb" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+<img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img alt="prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="raspberrypi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" />
+<img alt="redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=redis&logoColor=white" />
+<img alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white" />
+<img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
 ### Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jhersa&show_icons=true&theme=aura_dark" alt="jhersa" />
+<a href="https://github.com/jhersa">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jhersa&theme=github_dark_dimmed" />
+</a>
+<a href="https://github.com/jhersa">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhersa&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
+</a>
+
