@@ -63,12 +63,3 @@ Soy _Ingeniero en Software_ 🎓. Me apasiona aprender nuevas tecnologías que a
 <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 <img alt="gnubash" src="https://img.shields.io/badge/BASH-121011?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
-
-### Github Stats
-
-<a href="https://github.com/jhersa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jhersa&theme=github_dark_dimmed" />
-</a>
-<a href="https://github.com/jhersa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhersa&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
-</a>
