@@ -1,12 +1,11 @@
 # Hola, soy [Jorge Hermosillo](https://github.com/jhersa) 🦒
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhersa)
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suave@suave.dev)
-[![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/nuevoespaciod-ymx4807/shared_invite/zt-16nqt71yq-g69RkI2kqMDEDPSThiQ4kQ)
+[![Web Badge](https://img.shields.io/badge/suave.sh-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=FFD600)](https://suave.sh)
 
 ## Un poco de mí
 
-Soy graduado en _Ingeniería en Software_ 🎓 de la [Universidad Autónoma de Chihuahua](https://uach.mx/). Me apasiona aprender nuevas tecnologías que ayudan a resolver problemas reales 👨🏻‍💻. Me gusta investigar mejores estrategias para la optimización de recursos. Me gusta automatizar 🛠 tareas repetitivas. Me encanta las tecnologías de _integración continua y el despliegue continuo_ `CI / CD`. Actualmente estoy trabajo como _SysAdmin_ 🚀 en [Black Labs](https://blacklabs.mx/) una empresa que me ha permitido aprender y desarrollarme profesionalmente con la flexibilidad de implementar nuevas tecnologías 👨🏻‍💻. Admiro la cultura DevOps y fomentarla 💣.
+Soy _Ingeniero en Software_ 🎓. Me apasiona aprender nuevas tecnologías que ayudan a resolver problemas reales 👨🏻‍💻. Me gusta investigar mejores estrategias para la optimización de recursos. Me gusta automatizar 🛠 tareas repetitivas. Me encanta las tecnologías de _integración continua y el despliegue continuo_ `CI / CD`. Trabajo en infraestructura y seguridad 🚀, con la flexibilidad de implementar nuevas tecnologías 👨🏻‍💻. Admiro la cultura DevOps y fomentarla 💣.
 
 ### Lenguajes y Herramientas
 
